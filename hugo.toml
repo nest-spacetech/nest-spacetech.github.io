@@ -1,4 +1,4 @@
-﻿baseURL = "https://nest-spacetech.github.io/"
+baseURL = "https://nest-spacetech.github.io/"
 languageCode = "en-us"
-title = "NEST â€” India's ESCC-Grade Space Thermal Control Manufacturer"
+title = "NEST — India's ESCC-Grade Space Thermal Control Manufacturer"
 disableKinds = ["taxonomy", "term", "page", "section"]
