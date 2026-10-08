@@ -100,3 +100,6 @@ textarea.form-control { min-height: 120px; resize: vertical; }
     .hero h1 { font-size: 2.25rem; }
     .btn-secondary { margin-left: 0; margin-top: 16px; display: block; }
 }
+
+
+p { text-align: justify; }
