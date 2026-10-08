@@ -43,7 +43,7 @@
     - label: "Temp range"
       value: "-55°C to +125°C"
     - label: "Hermeticity"
-      value: "He leak < 5×10⁻⁹ atm·cc/s"
+      value: "He leak < 5×10⁻¹⁰ atm·cc/s"
 - name: "Platinum Resistance Thermometers (PRTs)"
   status: "Planned"
   status_color: "#2E3A87"
